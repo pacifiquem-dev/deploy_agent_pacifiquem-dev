@@ -97,3 +97,5 @@ attendance_checker.py is executable (chmod +x).
 Helpers/config.json is restricted to owner read/write only (chmod 600).
 
 Running the application (Feature 2) successfully logged attendance and generated alerts, proving the structure works.
+## Demo video
+Watch the full demo here: https://drive.google.com/file/d/1TYutY3FKaSsY6jNLSuqxItmwId7SkRz_/view?usp=drive_link
